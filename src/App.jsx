@@ -1,8 +1,8 @@
-import { useState } from 'react';
+
 import './App.css';
 import { Routes, Route, useLocation } from 'react-router-dom';
-import Navbar from './assets/component/navbar';
-import Footer from './assets/component/footer';
+import Navbar from './assets/component/Navbar';
+import Footer from './assets/component/Footer';
 import Home from './assets/pages/Home';
 import Programs from './assets/pages/Programs';
 import Peoples from './assets/pages/Peoples';
