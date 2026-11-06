@@ -7,7 +7,7 @@ import Home from './assets/pages/Home';
 import Programs from './assets/pages/Programs';
 import Peoples from './assets/pages/Peoples';
 import ScrollToTop from './assets/component/ScrollToTop';
-import About from './assets/pages/about';
+import About from './assets/pages/About';
 import Error from './assets/pages/404Error';
 import MainLayout from './assets/layout/MainLayout';
 import Findus from './assets/pages/Findus';
