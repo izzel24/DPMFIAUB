@@ -1,7 +1,6 @@
-import React from 'react'
-import Navbar from '../component/navbar'
+import Navbar from '../component/Navbar'
 import ScrollToTop from '../component/ScrollToTop'
-import Footer from '../component/footer'
+import Footer from '../component/Footer'
 
 export default function MainLayout({children }) {
 
